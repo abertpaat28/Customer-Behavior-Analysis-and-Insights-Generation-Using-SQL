@@ -1,9 +1,9 @@
 # 📈 Customer Behavior Analysis and Insights Generation Using SQL
 ---
 
-[SQL-Database](https://github.com/abertpaat28/Customer-Behavior-Analysis-and-Insights-Generation-Using-SQL/blob/main/create_restaurant_db.sql)-
-[SQL-Query](https://github.com/abertpaat28/Customer-Behavior-Analysis-and-Insights-Generation-Using-SQL/blob/main/restaurant_db_project_queries.sql)-
-[DATASET](https://github.com/abertpaat28/Customer-Behavior-Analysis-and-Insights-Generation-Using-SQL/blob/main/restaurant_db_data_dictionary.csv)-
+[SQL-Database](https://github.com/abertpaat28/Customer-Behavior-Analysis-and-Insights-Generation-Using-SQL/blob/main/create_restaurant_db.sql) -
+[SQL-Query](https://github.com/abertpaat28/Customer-Behavior-Analysis-and-Insights-Generation-Using-SQL/blob/main/restaurant_db_project_queries.sql) -
+[DATASET](https://github.com/abertpaat28/Customer-Behavior-Analysis-and-Insights-Generation-Using-SQL/blob/main/restaurant_db_data_dictionary.csv) -
 [PDF](https://github.com/abertpaat28/Customer-Behavior-Analysis-and-Insights-Generation-Using-SQL/blob/main/Customer%20Behavior%20Analysis%20And%20Insights%20Generation%20Using%20SQL.pdf)
 
 ---
