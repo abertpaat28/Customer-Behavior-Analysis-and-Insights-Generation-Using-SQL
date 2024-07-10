@@ -1,5 +1,4 @@
 # 📈 Customer Behavior Analysis and Insights Generation Using SQL
----
 👀
 [SQL Database](https://github.com/abertpaat28/Customer-Behavior-Analysis-and-Insights-Generation-Using-SQL/blob/main/create_restaurant_db.sql) -
 [SQL Query](https://github.com/abertpaat28/Customer-Behavior-Analysis-and-Insights-Generation-Using-SQL/blob/main/restaurant_db_project_queries.sql) -
